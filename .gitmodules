@@ -5,6 +5,3 @@
 	path = mirte-gazebo
 	url = git@github.com:SuperJappie08/mirte-gazebo.git
 	branch = rsp
-[submodule "ridgeback"]
-	path = ridgeback
-	url = git@github.com:ArendJan/ridgeback.git
